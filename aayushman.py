@@ -1,0 +1,1 @@
+print("Arey Teri Ma ka Bhosada Phat Jayega")
